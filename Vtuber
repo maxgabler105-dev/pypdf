@@ -1,0 +1,3 @@
+# PDF speichern
+pdf.output("Viptor_Vtuber_Complete.pdf")
+print("✅ Vollständiges Vtuber-Designsheet PDF erstellt: Viptor_Vtuber_Complete.pdf")
